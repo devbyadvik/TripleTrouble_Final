@@ -70,3 +70,11 @@ Using **Linear Regression**, we model how vehicle characteristics such as mileag
 2. Install required libraries:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
+3. Open and run the jupyter notebook:
+
+---
+
+## Authors
+- Oscar Alvarado
+- Joseph Gardner
+- Advik Katiyar
