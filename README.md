@@ -60,7 +60,7 @@ Using **Linear Regression**, we model how vehicle characteristics such as mileag
 
 ## Files in This Repository
 - `car_sales_data.csv` – Dataset used for analysis  
-- `I310D_Final.ipynb` – Complete analysis, modeling, and results  
+- `TripleTroubleFinalCode.ipynb` – Complete analysis, modeling, and results  
 - `README.md` – Project overview and instructions  
 
 ---
@@ -70,7 +70,7 @@ Using **Linear Regression**, we model how vehicle characteristics such as mileag
 2. Install required libraries:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
-3. Open and run the jupyter notebook:
+3. Open and run the jupyter notebook
 
 ---
 
